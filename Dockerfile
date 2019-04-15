@@ -1,7 +1,7 @@
 FROM openjdk:8-jdk-alpine
 MAINTAINER Tavan <support@tavanv.com>
 
-ENV FFMPEG_VERSION=3.4
+ENV FFMPEG_VERSION=4.0.2
 
 WORKDIR /tmp/ffmpeg
 
